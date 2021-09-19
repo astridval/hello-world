@@ -2,5 +2,5 @@
 just another repository 
 
 
-Hi humans !
+Hi !
 
